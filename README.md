@@ -11,6 +11,8 @@
 - 📫 How to reach me **Nikhilolivera1996@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Nikhilolivera/My_Projects_-_Resume/blob/main/Nikhil%20Olivera_DA_EXP.pdf](https://github.com/Nikhilolivera/My_Projects_-_Resume/blob/main/Nikhil%20Olivera_DA_EXP.pdf)
+- 📄 Know about my experiences — [CLICK HERE](https://github.com/Nikhilolivera/My_Projects_-_Resume/blob/main/Nikhil%20Olivera_DA_EXP.pdf)
+
 
 - ⚡ Fun fact **🥘 I love experimenting with recipes—yes, even cooking has its data points.**
 
