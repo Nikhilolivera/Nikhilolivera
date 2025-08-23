@@ -6,11 +6,10 @@
 
 - 🌱 I’m currently learning **ETL testing, course AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nikhilolivera/My_Projects_-_Resume](https://github.com/Nikhilolivera/My_Projects_-_Resume)
+- 👨‍💻 All of my projects are available at - <a href="https://github.com/Nikhilolivera/My_Projects_-_Resume" target="_blank" rel="noopener noreferrer">CLICK HERE</a>
 
 - 📫 How to reach me **Nikhilolivera1996@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Nikhilolivera/My_Projects_-_Resume/blob/main/Nikhil%20Olivera_DA_EXP.pdf](https://github.com/Nikhilolivera/My_Projects_-_Resume/blob/main/Nikhil%20Olivera_DA_EXP.pdf)
 - 📄 Know about my experiences — <a href="https://github.com/Nikhilolivera/My_Projects_-_Resume/blob/main/Nikhil%20Olivera_DA_EXP.pdf" target="_blank" rel="noopener noreferrer">CLICK HERE</a>
 
 
