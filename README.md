@@ -1,24 +1,31 @@
-# 💫 About Me:
-Detail-oriented IoT Data Analyst / Database Management and Embedded Systems Engineer with over three years of experience specializing in IoT sensor data analysis, cloud database management, and real-time monitoring of smart devices. Skilled in integrating PostgreSQL, MySQL, and AWS RDS, MQTT protocol for high-frequency sensor data collection and processing. Proficient in SQL querying, advanced Excel, and predictive maintenance strategies to optimize device performance and reduce downtime. Experienced in data visualization using Power BI, unactionable insights for business and operational improvements. Adept at developing real-time alert systems for performance monitoring, ensuring seamless IoT ecosystem functionality. Seeking to leverage expertise in IoT analytics and embedded systems to drive efficiency and innovation in data-driven industries
+<h1 align="center">Hi 👋, I'm Nikhil Olivera</h1>
+<h3 align="center">A passionate IoT Data Analyst / Database Management and Embedded Systems Engineer</h3>
+<h3 align="Detail-oriented IoT Data Analyst / Database Management and Embedded Systems Engineer with over three years of experience specializing in IoT sensor data analysis, cloud database management, and real-time monitoring of smart devices. Skilled in integrating PostgreSQL, MySQL, and AWS RDS, MQTT protocol for high-frequency sensor data collection and processing. Proficient in SQL querying, advanced Excel, and predictive maintenance strategies to optimize device performance and reduce downtime. Experienced in data visualization using Power BI, unactionable insights for business and operational improvements. Adept at developing real-time alert systems for performance monitoring, ensuring seamless IoT ecosystem functionality. Seeking to leverage expertise in IoT analytics and embedded systems to drive efficiency and innovation in data-driven industries"</h3>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilolivera&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilolivera" /> </p>
 
+- 🌱 I’m currently learning **ETL testing, course AWS**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nikhil Olivera) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhil_olivera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-olivera-674538245?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BseOzJEx1RQ24r4CzQ0U2Aw%3D%3D) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nikhil olivera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Nikhilolivera1996@gmail.com) 
+- 👨‍💻 All of my projects are available at [https://github.com/Nikhilolivera/My_Projects_-_Resume](https://github.com/Nikhilolivera/My_Projects_-_Resume)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nikhilolivera&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nikhilolivera&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilolivera&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 📫 How to reach me **Nikhilolivera1996@gmail.com**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nikhilolivera&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 📄 Know about my experiences [https://github.com/Nikhilolivera/My_Projects_-_Resume/blob/main/Nikhil%20Olivera_DA_EXP.pdf](https://github.com/Nikhilolivera/My_Projects_-_Resume/blob/main/Nikhil%20Olivera_DA_EXP.pdf)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nikhilolivera&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+- ⚡ Fun fact **🥘 I love experimenting with recipes—yes, even cooking has its data points.**
 
----
-[![](https://visitcount.itsvg.in/api?id=Nikhilolivera&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/nikhil olivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikhil olivera" height="30" width="40" /></a>
+<a href="https://instagram.com/nikhil_olivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil_olivera" height="30" width="40" /></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilolivera&show_icons=true&locale=en&layout=compact" alt="nikhilolivera" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilolivera&show_icons=true&locale=en" alt="nikhilolivera" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilolivera&" alt="nikhilolivera" /></p>
+
