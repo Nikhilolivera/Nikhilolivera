@@ -4,15 +4,13 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilolivera&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilolivera" /> </p>
 
-- 🌱 I’m currently learning **ETL testing, course AWS**
+- 📫 How to reach me **Nikhilolivera1996@gmail.com**
 
 - 👨‍💻 All of my projects are available at - <a href="https://github.com/Nikhilolivera/My_Projects_-_Resume" target="_blank" rel="noopener noreferrer">CLICK HERE</a>
 
-- 📫 How to reach me **Nikhilolivera1996@gmail.com**
-
 - 📄 Know about my experiences — <a href="https://github.com/Nikhilolivera/My_Projects_-_Resume/blob/main/Nikhil%20Olivera_DA_EXP.pdf" target="_blank" rel="noopener noreferrer">CLICK HERE</a>
 
-
+- 🌱 I’m currently learning **ETL testing, course AWS**
 
 - ⚡ Fun fact **🥘 I love experimenting with recipes—yes, even cooking has its data points.**
 
