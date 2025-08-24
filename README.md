@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **🥘 I love experimenting with recipes—yes, even cooking has its data points.**
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-olivera-674538245?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWgO9%2BvEtSjq0T%2FMgNlCNww%3D%3D) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Nikhilolivera" target="blank"><img align="center" <a href="https://fb.com/nikhil olivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikhil olivera" height="30" width="40" /></a>
